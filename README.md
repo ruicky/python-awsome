@@ -13,11 +13,10 @@
 然后运行 python wereadauto.py 即可
 
 ## 成果展示
-
-<video controls="controls">
-  <source type="video/mp4" src="./demo.mp4"></source>
-  <p>Your browser does not support the video element.</p>
-</video>
+<video id="video" controls="" preload="none" >
+      <source id="mp4" src="poster="http://media.w3.org/2010/05/sintel/poster.png"4" type="video/mp4">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+    </video>
 
 ## 灵感来源
 [weread-auto](https://github.com/tqcenglish/weread-auto)
