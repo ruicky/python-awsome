@@ -13,6 +13,7 @@
 然后运行 python wereadauto.py 即可
 
 ## 成果展示
-<video src="./demo.mp4" width="320" height="200" controls preload></video>
+![demo](./demo.gif)
+
 ## 灵感来源
 [weread-auto](https://github.com/tqcenglish/weread-auto)
