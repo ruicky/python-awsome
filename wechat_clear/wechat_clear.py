@@ -18,7 +18,7 @@ for user in all_friends:
     try:
         if user != myself:
             print("["+str(index)+"/"+str(len(all_friends))+"] "+user.name)
-            user.send(' ॣ ॣ ॣ')
+            user.send('能看到我发的吗 జ్ఞా ')
     except ResponseError as e:
         print(e.err_code, e.err_msg) 
     index += 1    
